@@ -1,0 +1,30 @@
+[
+    {
+        "id":5,
+        "collection":"COLORAMA",
+        "title":"TEA POT - ELECTRIC BLUE AND CORAL WITH SOFT PINK RIM",
+        "imgUrl":"img/colorama2.jpg",
+        "price":"41.50"
+    },
+    {
+        "id":6,
+        "collection":"COLORAMA",
+        "title":"TUMBLER - CORAL AND SOFT PINK WITH ELECTRIC BLUE RIM",
+        "imgUrl":"img/best6.jpg",
+        "price":"19.50"
+    },
+    {
+        "id":7,
+        "collection":"COLORAMA",
+        "title":"JAR - MINT AND ELECTRIC BLUE WITH CHARTREUSE RIM",
+        "imgUrl":"img/best7.jpg",
+        "price":"32.90"
+    },
+    {
+        "id":8,
+        "collection":"ISLAND BREEZE",
+        "title":"SOAP DISH - INDIGO",
+        "imgUrl":"img/best8.jpg",
+        "price":"26.50"
+    }
+]

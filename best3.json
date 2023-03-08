@@ -1,0 +1,30 @@
+[
+    {
+        "id":9,
+        "collection":"CANDLES",
+        "title":"CANDLE - BERGAMOT",
+        "imgUrl":"img/best9.jpg",
+        "price":"37.90"
+    },
+    {
+        "id":10,
+        "collection":"KIDS & FAMILY",
+        "title":"PLATE - PINK",
+        "imgUrl":"img/best10.jpg",
+        "price":"20.50"
+    },
+    {
+        "id":11,
+        "collection":"KIDS & FAMILY",
+        "title":"CUP - WHITE",
+        "imgUrl":"img/best11.jpg",
+        "price":"18.50"
+    },
+    {
+        "id":12,
+        "collection":"ISLAND BREEZE",
+        "title":"BOWL - CREAM",
+        "imgUrl":"img/best12.jpg",
+        "price":"21.50"
+    }
+]
