@@ -27,7 +27,8 @@
         "id":12,
         "collection":"ISLAND BREEZE",
         "title":"SOAP DISH - INDIGO",
-        "imgUrl":"img/best1212.jpg",
+        "imgUrl":"img/best12.jpg",
+        "hoverimg": "img/best_hover12.jpg",
         "price":"26.50"
     }
 ]
