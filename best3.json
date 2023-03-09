@@ -4,6 +4,7 @@
         "collection":"CANDLES",
         "title":"CANDLE - BERGAMOT",
         "imgUrl":"img/best9.jpg",
+        "hoverimg": "img/best_hover9.jpg",
         "price":"37.90"
     },
     {
@@ -11,6 +12,7 @@
         "collection":"KIDS & FAMILY",
         "title":"PLATE - PINK",
         "imgUrl":"img/best10.jpg",
+        "hoverimg": "img/best_hover10.jpg",
         "price":"20.50"
     },
     {
@@ -18,13 +20,14 @@
         "collection":"KIDS & FAMILY",
         "title":"CUP - WHITE",
         "imgUrl":"img/best11.jpg",
+        "hoverimg": "img/best_hover11.jpg",
         "price":"18.50"
     },
     {
         "id":12,
         "collection":"ISLAND BREEZE",
-        "title":"BOWL - CREAM",
-        "imgUrl":"img/best12.jpg",
-        "price":"21.50"
+        "title":"SOAP DISH - INDIGO",
+        "imgUrl":"img/best1212.jpg",
+        "price":"26.50"
     }
 ]
