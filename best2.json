@@ -4,13 +4,15 @@
         "collection":"COLORAMA",
         "title":"TEA POT - ELECTRIC BLUE AND CORAL WITH SOFT PINK RIM",
         "imgUrl":"img/colorama2.jpg",
+        "hoverimg": "img/colorama_hover2.jpg",
         "price":"41.50"
     },
     {
         "id":6,
         "collection":"COLORAMA",
         "title":"TUMBLER - CORAL AND SOFT PINK WITH ELECTRIC BLUE RIM",
-        "imgUrl":"img/best6.jpg",
+        "imgUrl":"img/colorama6.jpg",
+        "hoverimg": "img/colorama_hover2.jpg",
         "price":"19.50"
     },
     {
@@ -18,6 +20,7 @@
         "collection":"COLORAMA",
         "title":"JAR - MINT AND ELECTRIC BLUE WITH CHARTREUSE RIM",
         "imgUrl":"img/best7.jpg",
+        "hoverimg": "img/best_hover7.jpg",
         "price":"32.90"
     },
     {
@@ -25,6 +28,7 @@
         "collection":"ISLAND BREEZE",
         "title":"TUMBLER - CREAM",
         "imgUrl":"img/best8.jpg",
+        "hoverimg": "img/best_hover8.jpg",
         "price":"21.50"
     }
 ]
