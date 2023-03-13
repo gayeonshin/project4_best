@@ -3,16 +3,16 @@
         "id":5,
         "collection":"COLORAMA",
         "title":"TEA POT - ELECTRIC BLUE AND CORAL WITH SOFT PINK RIM",
-        "imgUrl":"img/colorama2.jpg",
-        "hoverimg": "img/colorama_hover2.jpg",
+        "imgUrl":"img/best5.jpg",
+        "hoverimg": "img/best_hover5.jpg",
         "price":"41.50"
     },
     {
         "id":6,
         "collection":"COLORAMA",
         "title":"TUMBLER - CORAL AND SOFT PINK WITH ELECTRIC BLUE RIM",
-        "imgUrl":"img/colorama6.jpg",
-        "hoverimg": "img/colorama_hover2.jpg",
+        "imgUrl":"img/best6.jpg",
+        "hoverimg": "img/best_hover6.jpg",
         "price":"19.50"
     },
     {
